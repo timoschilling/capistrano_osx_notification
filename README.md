@@ -1,4 +1,4 @@
-# CapistranoOsxNotification
+# CapistranoOSXNotifications
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'capistrano_osx_notification'
+    gem 'capistrano_osx_notifications'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install capistrano_osx_notification
+    $ gem install capistrano_osx_notifications
 
 ## Usage
 
