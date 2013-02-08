@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = CapistranoOsxNotification::VERSION
   gem.authors       = ["Timo Schilling"]
   gem.email         = ["timo@schilling.io"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{OSX Notifications for Capistrano.}
+  gem.summary       = %q{OSX Notifications for Capistrano.}
+  gem.homepage      = "https://github.com/timoschilling/capistrano_osx_notification"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
